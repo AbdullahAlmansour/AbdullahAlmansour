@@ -1,3 +1,3 @@
-- Hi 👋 I’m Abdullah Almansour
+- Hi 👋
 - This github page to share projects spanning robotics, control systems, and power electronics fileds, as well as some DIY electronics and 3D printing projects.
 - You can reach me at: https://www.linkedin.com/in/abdullah--almansour/
